@@ -1,0 +1,7 @@
+# Aplicação simples de agendamento 
+
+Esta aplicação é um exemplo de um sistema simples de agendamento utilizado em empresas , utilizei uma oficina como exemplo neste caso. Foi construido utilizando a linguagem JAVA com conexão ao banco de dados MySQL, portanto para o funcionamento do código todos os componentes devem estar alinhados e operantes.
+
+Lembre-se de alterar os dados ded conexão para qque não tenha problema na execução do codigo.
+
+O programa foi construido em sua maioria utilizando o Netbeans com JDK17.
